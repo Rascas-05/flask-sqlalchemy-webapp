@@ -1,0 +1,9 @@
+__pycache__
+*.pyc  # Python compiled files
+*.pyo  # Python optimized files
+*.pyd  # Python dynamic files
+*.pyw  # Python windows files
+*.pyz  # Python zipped files
+*.pywz  # Python windows zipped files
+*.pyzw  # Python zipped windows files
+.venv  # Python virtual environment
